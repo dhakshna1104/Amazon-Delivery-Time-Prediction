@@ -70,7 +70,7 @@ The dataset includes:
 ## 💻 How to Run Locally
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/amazon-delivery-time-prediction.git
+git clone https://github.com/dhakshna1104/amazon-delivery-time-prediction.git
 cd amazon-delivery-time-prediction
 
 # Install dependencies
@@ -79,10 +79,3 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run app.py
 ```
-
----
-
-## 📬 Contact
-**Author:** [Your Name]  
-**Email:** your.email@example.com  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
